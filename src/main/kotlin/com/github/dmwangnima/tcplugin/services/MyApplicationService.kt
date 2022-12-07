@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.dmwangnima.tcplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.dmwangnima.tcplugin.MyBundle
 
 class MyApplicationService {
 
